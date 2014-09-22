@@ -11,3 +11,7 @@
  *= require_self
  *= require_tree .
  */
+ //= require jquery
+//= require bootstrap-sprockets
+@import "bootstrap-sprockets";
+@import "bootstrap";
